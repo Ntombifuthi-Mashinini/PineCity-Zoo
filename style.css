@@ -28,7 +28,7 @@ body {
   position: fixed;
   top: 80px;
   width: 100%;
-  background-color: #32cd32;
+  background-color: #006400;
   text-align: center;
   padding: 10px 0;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
@@ -45,7 +45,7 @@ body {
 }
 
 #tabs-top a:hover {
-  background-color: #2e8b57;
+  background-color: #228B22; 
   color: #ffffff;
 }
 
@@ -69,7 +69,7 @@ body {
   bottom: 0;
   left: 0;
   width: 100%;
-  background-color: #f0f0f0;
+  background-color: #006400;
   text-align: center;
   padding: 10px 0;
   box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1);
@@ -78,7 +78,7 @@ body {
 #tabs-bottom a {
   margin: 0 15px;
   text-decoration: none;
-  color: #333;
+  color: white;
   font-weight: bold;
   padding: 8px 16px;
   border-radius: 8px;
@@ -86,8 +86,8 @@ body {
 }
 
 #tabs-bottom a:hover {
-  background-color: #dcdcdc;
-  color: #000;
+  background-color: #228B22; 
+  color: #ffffff;
 }
 
 #main {
@@ -206,4 +206,5 @@ textarea {
 .button:hover {
   background-color: #228b22;
 }
+
 
